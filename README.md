@@ -7,9 +7,12 @@
 <!--
 **MrJAKKAPAN/MrJAKKAPAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-🌱 I’m currently learning ReactJs && React Native
+🌱 I’m currently learning ReactJs && React Native 
+
 😄 I have a love relationship with Programming
+
 😄 Pronouns: He/His
+
 ⚡  Fun fact: I spend a lot of time reading and traveling && Brewing beer && Drive a motorcycle && Cook.
 
 
