@@ -3,7 +3,7 @@
 😄 สวัสดีครับ ผม จักรพันธ์ สิทธิกัน หรือเกมส์ เป็นโปรแกรมเมอร์. Web Developer 
   
  
-![Jakkapan Sitthikan](https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/78864039_2825895847636838_3395156722476646400_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_ohc=XLGdNZQmCMcAX8Ekxgd&_nc_oc=AQmPcoB0aTvJj4z2x5o8gIFAV667tvPSpKvk-lvKELGcYFKEeJHoAxJBSekae1V1X6o&_nc_ht=scontent.fbkk5-6.fna&oh=e9a184947f1b4a1066ee26018fc9d712&oe=5F570E23)
+![Jakkapan Sitthikan](https://www.facebook.com/photo?fbid=2825895840970172&set=a.1375994412626996)
 <!--
 **MrJAKKAPAN/MrJAKKAPAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
